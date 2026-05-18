@@ -1,0 +1,101 @@
+LeadID,Cliente,Segmento,Responsavel_Comercial,Etapa,Valor_Proposta,Probabilidade,Data_Entrada,Data_Fechamento,Status,Origem_Lead
+LEAD-1001,GE Healthcare,Industrial,Ricardo Alves,Apresentação,80486,29,2025-03-21,,Aberto,Evento
+LEAD-1002,John Deere,Energy,Juliana Martins,Fechamento,135630,81,2025-05-25,,Aberto,Indicação
+LEAD-1003,Petrobras,Aerospace,Ricardo Alves,Proposta,177314,46,2025-01-19,,Aberto,Website
+LEAD-1004,Embraer,Automotive,Fernanda Souza,Apresentação,365650,18,2025-04-07,,Aberto,Evento
+LEAD-1005,Volvo,Energy,Fernanda Souza,Prospecção,331745,8,2025-03-19,,Aberto,Indicação
+LEAD-1006,John Deere,Healthcare,Juliana Martins,Prospecção,322573,9,2025-01-12,,Aberto,LinkedIn
+LEAD-1007,Embraer,Automotive,Carlos Lima,Prospecção,67953,11,2025-04-05,,Aberto,Cold Call
+LEAD-1008,Siemens,Industrial,Carlos Lima,Negociação,418223,56,2025-05-08,2025-06-09,Fechado,Indicação
+LEAD-1009,Petrobras,Energy,Fernanda Souza,Proposta,411158,42,2025-02-10,,Perdido,Cold Call
+LEAD-1010,GE Healthcare,Industrial,Fernanda Souza,Proposta,469188,44,2025-03-15,,Aberto,Cold Call
+LEAD-1011,Embraer,Automotive,Ricardo Alves,Prospecção,263905,8,2025-03-27,,Aberto,Indicação
+LEAD-1012,Petrobras,Automotive,Ricardo Alves,Fechamento,465992,87,2025-05-12,,Aberto,LinkedIn
+LEAD-1013,Scania,Industrial,Juliana Martins,Negociação,449486,56,2025-06-18,,Aberto,Cold Call
+LEAD-1014,Siemens,Automotive,Carlos Lima,Prospecção,441768,7,2025-03-20,2025-06-02,Fechado,Cold Call
+LEAD-1015,BMW,Automotive,Fernanda Souza,Prospecção,141601,10,2025-05-08,,Aberto,LinkedIn
+LEAD-1016,GE Healthcare,Industrial,Juliana Martins,Prospecção,307337,6,2025-02-17,,Aberto,Cold Call
+LEAD-1017,John Deere,Healthcare,Carlos Lima,Prospecção,320100,14,2025-01-27,,Aberto,Cold Call
+LEAD-1018,Bosch,Aerospace,Juliana Martins,Apresentação,74420,27,2025-02-23,,Aberto,Evento
+LEAD-1019,Scania,Energy,Fernanda Souza,Apresentação,183664,28,2025-05-23,2025-07-29,Fechado,Indicação
+LEAD-1020,Toyota,Industrial,Carlos Lima,Prospecção,226010,13,2025-01-01,,Aberto,Evento
+LEAD-1021,Bosch,Energy,Fernanda Souza,Proposta,293907,35,2025-03-17,2025-06-06,Fechado,Website
+LEAD-1022,Volvo,Aerospace,Carlos Lima,Prospecção,183559,8,2025-02-14,2025-03-12,Fechado,LinkedIn
+LEAD-1023,Siemens,Energy,Juliana Martins,Prospecção,466779,14,2025-01-13,,Aberto,LinkedIn
+LEAD-1024,John Deere,Energy,Fernanda Souza,Apresentação,121042,21,2025-03-27,,Aberto,Indicação
+LEAD-1025,John Deere,Automotive,Ricardo Alves,Apresentação,376612,26,2025-03-09,,Perdido,Indicação
+LEAD-1026,Bosch,Energy,Fernanda Souza,Proposta,444920,36,2025-01-05,,Aberto,Cold Call
+LEAD-1027,Toyota,Automotive,Ricardo Alves,Prospecção,281319,5,2025-01-07,2025-01-26,Fechado,LinkedIn
+LEAD-1028,John Deere,Aerospace,Juliana Martins,Apresentação,163408,15,2025-03-11,2025-05-09,Fechado,Cold Call
+LEAD-1029,GE Healthcare,Energy,Ricardo Alves,Apresentação,186085,23,2025-02-16,,Perdido,Cold Call
+LEAD-1030,Scania,Aerospace,Ricardo Alves,Prospecção,236456,13,2025-05-22,,Aberto,Indicação
+LEAD-1031,BMW,Healthcare,Ricardo Alves,Proposta,202518,49,2025-04-10,,Aberto,LinkedIn
+LEAD-1032,Siemens,Energy,Ricardo Alves,Prospecção,320759,13,2025-03-12,,Perdido,Website
+LEAD-1033,John Deere,Automotive,Juliana Martins,Prospecção,493989,7,2025-03-08,2025-04-16,Fechado,LinkedIn
+LEAD-1034,John Deere,Energy,Juliana Martins,Fechamento,96052,81,2025-01-03,2025-03-30,Fechado,LinkedIn
+LEAD-1035,Toyota,Automotive,Ricardo Alves,Fechamento,196755,80,2025-01-01,2025-03-19,Fechado,LinkedIn
+LEAD-1036,Scania,Aerospace,Ricardo Alves,Negociação,51995,57,2025-02-04,2025-03-28,Fechado,LinkedIn
+LEAD-1037,John Deere,Industrial,Ricardo Alves,Prospecção,324526,13,2025-02-27,,Perdido,Indicação
+LEAD-1038,Bosch,Aerospace,Ricardo Alves,Prospecção,433011,9,2025-05-19,2025-06-04,Fechado,Evento
+LEAD-1039,BMW,Energy,Ricardo Alves,Proposta,71333,30,2025-01-02,,Aberto,Evento
+LEAD-1040,Embraer,Automotive,Fernanda Souza,Apresentação,64260,17,2025-06-25,,Aberto,Cold Call
+LEAD-1041,Siemens,Automotive,Juliana Martins,Prospecção,419156,14,2025-06-05,,Aberto,Website
+LEAD-1042,Toyota,Industrial,Carlos Lima,Apresentação,181391,26,2025-04-20,,Perdido,Website
+LEAD-1043,Toyota,Industrial,Ricardo Alves,Prospecção,101801,12,2025-01-13,,Perdido,Evento
+LEAD-1044,Scania,Healthcare,Ricardo Alves,Negociação,287567,64,2025-03-25,,Aberto,LinkedIn
+LEAD-1045,Toyota,Automotive,Juliana Martins,Prospecção,123396,10,2025-01-19,,Aberto,LinkedIn
+LEAD-1046,Scania,Aerospace,Fernanda Souza,Proposta,361451,38,2025-05-03,,Aberto,LinkedIn
+LEAD-1047,John Deere,Industrial,Carlos Lima,Prospecção,422204,8,2025-06-27,,Aberto,LinkedIn
+LEAD-1048,Scania,Energy,Fernanda Souza,Apresentação,75588,15,2025-01-12,,Aberto,Indicação
+LEAD-1049,Toyota,Healthcare,Fernanda Souza,Apresentação,483364,28,2025-05-26,,Aberto,Evento
+LEAD-1050,Toyota,Healthcare,Carlos Lima,Prospecção,187294,5,2025-05-20,2025-07-08,Fechado,Evento
+LEAD-1051,Scania,Healthcare,Juliana Martins,Fechamento,350818,94,2025-01-10,,Perdido,Cold Call
+LEAD-1052,Toyota,Industrial,Ricardo Alves,Proposta,410405,41,2025-05-13,,Aberto,Evento
+LEAD-1053,GE Healthcare,Energy,Carlos Lima,Fechamento,255171,81,2025-03-07,2025-04-04,Fechado,Website
+LEAD-1054,Toyota,Aerospace,Carlos Lima,Negociação,391314,51,2025-05-11,2025-07-05,Fechado,Cold Call
+LEAD-1055,Scania,Automotive,Ricardo Alves,Apresentação,404888,17,2025-03-24,2025-06-07,Fechado,Cold Call
+LEAD-1056,Toyota,Industrial,Ricardo Alves,Fechamento,485594,91,2025-04-23,2025-05-15,Fechado,Evento
+LEAD-1057,Volvo,Energy,Ricardo Alves,Prospecção,258143,9,2025-06-27,,Aberto,Indicação
+LEAD-1058,GE Healthcare,Automotive,Carlos Lima,Prospecção,414396,5,2025-06-11,,Aberto,Cold Call
+LEAD-1059,BMW,Energy,Carlos Lima,Prospecção,149092,12,2025-05-17,2025-06-03,Fechado,LinkedIn
+LEAD-1060,Siemens,Healthcare,Carlos Lima,Prospecção,369802,5,2025-03-21,,Aberto,Evento
+LEAD-1061,Toyota,Aerospace,Juliana Martins,Apresentação,409876,25,2025-04-23,2025-07-11,Fechado,Cold Call
+LEAD-1062,Volvo,Healthcare,Carlos Lima,Prospecção,266840,5,2025-03-29,,Aberto,Evento
+LEAD-1063,Volvo,Industrial,Carlos Lima,Negociação,56328,51,2025-04-09,,Perdido,Indicação
+LEAD-1064,Toyota,Automotive,Juliana Martins,Apresentação,234314,16,2025-04-23,2025-07-16,Fechado,Evento
+LEAD-1065,BMW,Automotive,Ricardo Alves,Prospecção,448242,10,2025-03-20,2025-04-12,Fechado,Website
+LEAD-1066,Siemens,Industrial,Juliana Martins,Apresentação,181974,21,2025-01-16,2025-04-15,Fechado,Cold Call
+LEAD-1067,BMW,Energy,Fernanda Souza,Prospecção,194617,9,2025-05-26,,Aberto,Website
+LEAD-1068,BMW,Industrial,Carlos Lima,Negociação,170934,50,2025-06-06,,Aberto,Evento
+LEAD-1069,BMW,Automotive,Fernanda Souza,Prospecção,145507,5,2025-04-09,2025-04-30,Fechado,Cold Call
+LEAD-1070,Siemens,Energy,Juliana Martins,Fechamento,140716,93,2025-04-07,,Aberto,LinkedIn
+LEAD-1071,Toyota,Automotive,Carlos Lima,Proposta,371429,31,2025-05-16,,Aberto,Cold Call
+LEAD-1072,Siemens,Industrial,Carlos Lima,Prospecção,204359,9,2025-06-09,,Aberto,Evento
+LEAD-1073,Bosch,Automotive,Juliana Martins,Prospecção,447476,14,2025-06-03,2025-07-24,Fechado,Website
+LEAD-1074,GE Healthcare,Energy,Ricardo Alves,Negociação,368668,55,2025-04-27,,Aberto,Indicação
+LEAD-1075,Siemens,Aerospace,Ricardo Alves,Proposta,85336,33,2025-02-18,2025-03-17,Fechado,Indicação
+LEAD-1076,GE Healthcare,Aerospace,Ricardo Alves,Proposta,390464,40,2025-04-10,,Aberto,LinkedIn
+LEAD-1077,Bosch,Energy,Carlos Lima,Proposta,487899,46,2025-06-21,,Aberto,LinkedIn
+LEAD-1078,Volvo,Healthcare,Ricardo Alves,Prospecção,55881,10,2025-05-08,,Aberto,LinkedIn
+LEAD-1079,Scania,Energy,Fernanda Souza,Apresentação,121949,22,2025-01-26,,Aberto,LinkedIn
+LEAD-1080,Toyota,Energy,Ricardo Alves,Prospecção,242349,9,2025-02-02,,Aberto,Website
+LEAD-1081,Volvo,Aerospace,Fernanda Souza,Negociação,91852,69,2025-03-22,2025-04-20,Fechado,LinkedIn
+LEAD-1082,Volvo,Automotive,Carlos Lima,Proposta,220827,31,2025-02-08,2025-04-26,Fechado,Website
+LEAD-1083,Volvo,Healthcare,Juliana Martins,Prospecção,375050,10,2025-04-05,,Aberto,Indicação
+LEAD-1084,Petrobras,Energy,Juliana Martins,Prospecção,118525,10,2025-01-25,,Aberto,LinkedIn
+LEAD-1085,Volvo,Aerospace,Juliana Martins,Prospecção,80140,5,2025-05-27,,Aberto,LinkedIn
+LEAD-1086,BMW,Automotive,Fernanda Souza,Prospecção,349769,13,2025-04-18,2025-05-10,Fechado,Evento
+LEAD-1087,BMW,Healthcare,Ricardo Alves,Proposta,357641,35,2025-04-23,2025-06-12,Fechado,Indicação
+LEAD-1088,GE Healthcare,Aerospace,Fernanda Souza,Proposta,120703,45,2025-02-16,,Perdido,Website
+LEAD-1089,Bosch,Industrial,Juliana Martins,Negociação,130604,52,2025-03-11,2025-03-31,Fechado,Website
+LEAD-1090,John Deere,Healthcare,Ricardo Alves,Apresentação,106925,18,2025-04-09,2025-06-16,Fechado,LinkedIn
+LEAD-1091,Toyota,Aerospace,Fernanda Souza,Prospecção,407869,8,2025-05-13,,Aberto,LinkedIn
+LEAD-1092,Embraer,Automotive,Fernanda Souza,Proposta,277198,48,2025-03-09,,Perdido,Indicação
+LEAD-1093,Scania,Energy,Ricardo Alves,Proposta,374309,32,2025-05-20,,Perdido,Website
+LEAD-1094,Petrobras,Aerospace,Fernanda Souza,Apresentação,474395,29,2025-06-09,,Aberto,Indicação
+LEAD-1095,Volvo,Industrial,Ricardo Alves,Proposta,150453,48,2025-05-17,2025-06-23,Fechado,LinkedIn
+LEAD-1096,Bosch,Automotive,Carlos Lima,Apresentação,424870,18,2025-03-31,2025-04-23,Fechado,Indicação
+LEAD-1097,GE Healthcare,Healthcare,Carlos Lima,Apresentação,214096,21,2025-01-06,2025-01-23,Fechado,Evento
+LEAD-1098,Volvo,Energy,Fernanda Souza,Apresentação,92443,18,2025-04-08,,Aberto,Website
+LEAD-1099,Scania,Healthcare,Carlos Lima,Prospecção,421172,13,2025-04-13,,Aberto,Evento
+LEAD-1100,GE Healthcare,Industrial,Fernanda Souza,Prospecção,478340,5,2025-04-13,,Aberto,Website
