@@ -1,4 +1,4 @@
-ProjectID,Projeto,Cliente,BU,PM,Fase,Especialidade,Ano,Mes,Horas_Orcadas,Horas_Reais,Variancia_Horas,Status_Horas,Data_Referencia
+projectid,projeto,cliente,bu,pm,fase,especialidade,ano,mes,horas_orcadas,horas_reais,variancia_horas,status_horas,data_referencia
 PRJ-2001,Projeto 1,Gamma Energy,Automotive,Marcos Pereira,Proposta,Gestão,2024,3,142,120,-22,Dentro Orcado,2024-03-01
 PRJ-2001,Projeto 1,Gamma Energy,Automotive,Marcos Pereira,Planejamento,Gestão,2024,4,60,55,-5,Dentro Orcado,2024-04-01
 PRJ-2001,Projeto 1,Gamma Energy,Automotive,Marcos Pereira,Engenharia,Gestão,2024,5,134,133,-1,Dentro Orcado,2024-05-01

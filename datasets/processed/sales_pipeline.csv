@@ -1,4 +1,4 @@
-LeadID,Cliente,Segmento,Responsavel_Comercial,Etapa,Valor_Proposta,Probabilidade,Data_Entrada,Data_Fechamento,Status,Origem_Lead
+leadid,cliente,segmento,responsavel_comercial,etapa,valor_proposta,probabilidade,data_entrada,data_fechamento,status,origem_lead
 LEAD-1001,GE Healthcare,Industrial,Ricardo Alves,Apresentação,80486,29,2025-03-21,,Aberto,Evento
 LEAD-1002,John Deere,Energy,Juliana Martins,Fechamento,135630,81,2025-05-25,,Aberto,Indicação
 LEAD-1003,Petrobras,Aerospace,Ricardo Alves,Proposta,177314,46,2025-01-19,,Aberto,Website
