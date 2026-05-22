@@ -3,10 +3,10 @@ import psycopg2
 from psycopg2.extras import execute_values
 
 conn = psycopg2.connect(
-    host="",
+    host="db.gwxuophzchihjnjrohse.supabase.co",
     database="postgres",
     user="postgres",
-    password="",
+    password="SUA_SENHA_AQUI",
     port="5432"
 )
 
@@ -14,7 +14,6 @@ df = pd.read_csv('datasets/processed/operational_projects_clean.csv')
 df['data_referencia'] = pd.to_datetime(df['data_referencia']).dt.date
 
 cursor = conn.cursor()
-
 records = [tuple(row) for row in df.itertuples(index=False)]
 
 sql = """
@@ -28,6 +27,6 @@ ON CONFLICT DO NOTHING
 
 execute_values(cursor, sql, records)
 conn.commit()
-print(f"✓ {cursor.rowcount} linhas inseridas")
+print(f"✓ Linhas inseridas: {cursor.rowcount}")
 cursor.close()
 conn.close()
