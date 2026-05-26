@@ -1,4 +1,4 @@
-# 📊 Operational Analytics Platform
+# 📊 Operational Analytics Dashboard
 
 Repositório de projetos práticos de Analytics com foco em dados operacionais e comerciais.
 
