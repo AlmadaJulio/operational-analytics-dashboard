@@ -7,9 +7,9 @@ from pathlib import Path
 
 load_dotenv(dotenv_path=Path(__file__).resolve().parent.parent.parent / ".env")
 
-print("HOST:", os.getenv("DB_HOST"))
-print("USER:", os.getenv("DB_USER"))
-print("PASS:", os.getenv("DB_PASSWORD"))
+#print("HOST:", os.getenv("DB_HOST"))
+#print("USER:", os.getenv("DB_USER"))
+#print("PASS:", os.getenv("DB_PASSWORD"))
 
 conn = psycopg2.connect(
     host=os.getenv("DB_HOST"),
