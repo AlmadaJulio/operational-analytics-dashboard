@@ -1,13 +1,28 @@
+import os
+from pathlib import Path
+
 import pandas as pd
 import psycopg2
+from dotenv import load_dotenv
 from psycopg2.extras import execute_values
 
+load_dotenv(dotenv_path=Path(__file__).resolve().parent.parent.parent / ".env")
+
+REQUIRED_VARS = ["DB_HOST", "DB_NAME", "DB_USER", "DB_PASSWORD", "DB_PORT"]
+missing = [v for v in REQUIRED_VARS if not os.getenv(v)]
+if missing:
+    raise RuntimeError(
+        f"Variáveis de ambiente ausentes: {', '.join(missing)}. "
+        "Configure o arquivo .env na raiz do projeto (veja .env.example)."
+    )
+
 conn = psycopg2.connect(
-    host="db.gwxuophzchihjnjrohse.supabase.co",
-    database="postgres",
-    user="postgres",
-    password="@DAtabase2026",
-    port="5432"
+    host=os.getenv("DB_HOST"),
+    database=os.getenv("DB_NAME"),
+    user=os.getenv("DB_USER"),
+    password=os.getenv("DB_PASSWORD"),
+    port=os.getenv("DB_PORT"),
+    sslmode="require",
 )
 
 df = pd.read_csv('datasets/processed/sales_pipeline.csv')
